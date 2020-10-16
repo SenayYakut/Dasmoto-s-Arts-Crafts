@@ -8,7 +8,9 @@ In this project, you’ll build a simple website for a fictional arts and crafts
 ## Installation
 
 Install the project locally
-ggit clone https://github.com/SenayYakut/Dasmoto-s-Arts-Crafts.git
+```bash
+git clone https://github.com/SenayYakut/Dasmoto-s-Arts-Crafts.git
+```
 
 ## Usage
 

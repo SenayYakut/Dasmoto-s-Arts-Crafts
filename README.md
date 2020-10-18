@@ -1,6 +1,6 @@
 # Dasmoto-s-Arts-Crafts
 
-Dasmoto-s-Arts-Crafts is a HTML5, CSS3,Git and GitHub pages project.
+Dasmoto-s-Arts-Crafts is a HTML5, CSS3, Git and GitHub pages project.
 
 In this project, you’ll build a simple website for a fictional arts and crafts store.
 
